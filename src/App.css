@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  margin: 20px auto;
+  width: 15%;
+}
+
+.button{
+  background-color: purple;
+  color: yellow;
+}
+
